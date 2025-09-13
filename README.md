@@ -8,4 +8,4 @@ The UI has many different colors so at a quick glance you can spot problems, suc
 
 ---
 
-Tip: if you get an error saying no module named tabulate, you can either `pip3 install tabulate` or  `python3 -m pip install tabulate`. Both work, however make sure to try relaunching your editor, as that fixed the problem for me several times...
+To run, you can try 'calc' if on linux, but on Windows you should run either `python -m calc` or `python.exe -m calc`
